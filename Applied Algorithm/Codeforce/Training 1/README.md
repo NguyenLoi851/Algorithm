@@ -1,4 +1,4 @@
-# A
+# A. 01. ALICEADD
 Alice có a cái kẹo, Bob cho Alice b cái kẹo, hỏi Alice có tổng cộng bao nhiêu cái kẹo. Yêu cầu viết chương trình bằng ngôn ngữ C/C++
 
 Lưu ý giới hạn: a,b<1019 dẫn đến c có thể vượt quá khai báo long long
