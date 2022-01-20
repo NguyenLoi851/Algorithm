@@ -51,7 +51,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150262114-56528db7-7bd2-47f9-b7df-37653c69a46a.png)
 
-# N. FINDPARENT – Tìm cha của nút trong cây
+# N. FINDPARENT – Tìm cha của nút trong cây (BFS)
  
 ![image](https://user-images.githubusercontent.com/60845268/150262123-2179b23b-d4c2-42e7-b19f-4fb1776edccf.png)
 
