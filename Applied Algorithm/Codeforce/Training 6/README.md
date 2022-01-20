@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/60845268/150261961-ee09d205-3f37-492b-a328-bdd5e4dfe7f6.png)
 
 
-# C. ARTICULATION_POINTS_N_BRIDGES – Đếm số lượng khớp và cầu của đồ thị vô hướng (DFS)
+# C. ARTICULATION_POINTS_N_BRIDGES – Đếm số lượng khớp và cầu của đồ thị vô hướng (DFS + Back edge)
  
 ![image](https://user-images.githubusercontent.com/60845268/150261981-8177ab76-7216-4167-88a8-8e78f45518d6.png)
 
