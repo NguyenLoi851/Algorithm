@@ -11,7 +11,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150261981-8177ab76-7216-4167-88a8-8e78f45518d6.png)
 
-# D. STRONGLY CONNECTED COMPONENTS – Đếm số lượng thành phần liên thông mạnh
+# D. STRONGLY CONNECTED COMPONENTS – Đếm số lượng thành phần liên thông mạnh (DFS + Back edge)
  
 ![image](https://user-images.githubusercontent.com/60845268/150261993-46bc931f-bc18-41aa-af57-5127465e6aec.png)
 
