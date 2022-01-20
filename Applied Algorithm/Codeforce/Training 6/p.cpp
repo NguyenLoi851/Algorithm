@@ -23,7 +23,7 @@ void input(){
     }
 }
 
-void DFS(int start){
+void BFS(int start){
     queue<int> Q;
     Q.push(start);
     bVisited[start]=true;
@@ -48,7 +48,7 @@ void DFS(int start){
     memset(cntD,0,sizeof(cntD));
 }
 
-void BFS(){
+void Dijkstra(){
     fare[1]=0;
     priority_queue<pair<int,int>, vector<pair<int,int>>,
                     greater<pair<int,int>>> PQ;
@@ -70,12 +70,12 @@ int main(){
     cin.tie(NULL);
     input();
     for(int i=1;i<=n;i++){
-        DFS(i);
+        BFS(i);
     }
     for(int i=2;i<=n;i++){
         fare[i]=INT_MAX;
     }
-    BFS();
+    Dijkstra();
     cout << fare[n];
     return 0;
 }
