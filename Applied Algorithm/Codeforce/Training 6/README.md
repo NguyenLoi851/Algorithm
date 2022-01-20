@@ -43,7 +43,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150262087-4d014747-71d2-4af7-a360-188ce620222a.png)
 
-# L. SHORTEST PATH PRIORITY QUEUE – Đường đi ngắn nhất trên đồ thị có hướng
+# L. SHORTEST PATH PRIORITY QUEUE – Đường đi ngắn nhất trên đồ thị có hướng (BFS + Dijkstra)
  
 ![image](https://user-images.githubusercontent.com/60845268/150262102-dd9abb37-703a-4db0-9bb5-ed94270ac4f8.png)
 
