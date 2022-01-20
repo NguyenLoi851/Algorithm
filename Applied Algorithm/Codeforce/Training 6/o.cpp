@@ -17,7 +17,7 @@ void input(){
     }
 }
 
-int DFS(int start){
+int BFS(int start){
     queue<int> Q;
     Q.push(start);
     bVisited[start] = true;
@@ -40,7 +40,7 @@ int DFS(int start){
 
 int main(){
     input();
-    res = DFS(1);
+    res = BFS(1);
     cout << res;
     return 0;
 }
