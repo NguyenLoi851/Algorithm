@@ -1,13 +1,13 @@
-# A. CONNECTED COMPONENTS – Đếm số lượng thành phần liên thông trong đồ thị vô hướng
+# A. CONNECTED COMPONENTS – Đếm số lượng thành phần liên thông trong đồ thị vô hướng (DFS)
  
 ![image](https://user-images.githubusercontent.com/60845268/150261953-86a01eb6-d3f0-4975-94b5-03c8bb2e2b51.png)
 
-# B. BIPARTIE GRAPH – Kiểm tra đồ thị vô hướng có phải đồ thị 2 phía
+# B. BIPARTIE GRAPH – Kiểm tra đồ thị vô hướng có phải đồ thị 2 phía (DFS)
  
 ![image](https://user-images.githubusercontent.com/60845268/150261961-ee09d205-3f37-492b-a328-bdd5e4dfe7f6.png)
 
 
-# C. ARTICULATION_POINTS_N_BRIDGES – Đếm số lượng khớp và cầu của đồ thị vô hướng
+# C. ARTICULATION_POINTS_N_BRIDGES – Đếm số lượng khớp và cầu của đồ thị vô hướng (DFS)
  
 ![image](https://user-images.githubusercontent.com/60845268/150261981-8177ab76-7216-4167-88a8-8e78f45518d6.png)
 
