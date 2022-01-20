@@ -59,7 +59,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150262132-b989d2b6-f1e4-4559-ade7-a71c7cd15baa.png)
 
-# P. 06.ICBUS – Tìm đường đi xe bus rẻ nhất
+# P. 06.ICBUS – Tìm đường đi xe bus rẻ nhất (BFS + Dijkstra)
  
 ![image](https://user-images.githubusercontent.com/60845268/150262146-23cda42d-406e-4b93-82a1-ecca4b1af9a9.png)
 
