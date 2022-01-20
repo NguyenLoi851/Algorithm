@@ -47,7 +47,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150262102-dd9abb37-703a-4db0-9bb5-ed94270ac4f8.png)
 
-# M. MINIMUM SPANNING TREE – Tìm cây khung nhỏ nhất
+# M. MINIMUM SPANNING TREE – Tìm cây khung nhỏ nhất (Kruskal)
  
 ![image](https://user-images.githubusercontent.com/60845268/150262114-56528db7-7bd2-47f9-b7df-37653c69a46a.png)
 
