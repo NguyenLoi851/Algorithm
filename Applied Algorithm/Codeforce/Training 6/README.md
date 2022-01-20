@@ -55,7 +55,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150262123-2179b23b-d4c2-42e7-b19f-4fb1776edccf.png)
 
-# O. LCOUNT – Đếm số lượng lá của cây
+# O. LCOUNT – Đếm số lượng lá của cây (BFS)
  
 ![image](https://user-images.githubusercontent.com/60845268/150262132-b989d2b6-f1e4-4559-ade7-a71c7cd15baa.png)
 
