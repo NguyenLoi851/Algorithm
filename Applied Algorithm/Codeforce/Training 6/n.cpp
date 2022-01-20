@@ -17,7 +17,7 @@ void input(){
     }
 }
 
-void DFS(int start){
+void BFS(int start){
     queue<int> Q;
     Q.push(start);
     while(!Q.empty()){
@@ -36,7 +36,7 @@ void DFS(int start){
 
 int main(){
     input();
-    DFS(1);
+    BFS(1);
     for(int i=2;i<=n;i++) cout << parent[i] << " ";
     return 0;
 }
