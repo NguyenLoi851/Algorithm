@@ -39,7 +39,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150262078-8b834465-4179-4b8c-b042-a306df56f365.png)
 
-# K. LONGEST PATH ON A TREE – Tìm đường đi dài nhất trên đồ thị vô hướng
+# K. LONGEST PATH ON A TREE – Tìm đường đi dài nhất trên đồ thị vô hướng (DFS)
  
 ![image](https://user-images.githubusercontent.com/60845268/150262087-4d014747-71d2-4af7-a360-188ce620222a.png)
 
