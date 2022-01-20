@@ -74,7 +74,7 @@
  
 ![image](https://user-images.githubusercontent.com/60845268/150262184-5f4270a8-119f-4137-bc1f-c0689a28e4a9.png)
 
-# S. 06.BUGLIFE – Kiểm tra đồ thị có phải đồ thị 2 phía
+# S. 06.BUGLIFE – Kiểm tra đồ thị có phải đồ thị 2 phía (DFS)
  
 ![image](https://user-images.githubusercontent.com/60845268/150262199-b53979c7-1962-4afa-90c0-051e08ca7d0c.png)
 
